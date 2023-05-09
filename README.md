@@ -1,6 +1,6 @@
 **SENTIMENT ANALYSIS**
 
-**Code:** : sentiment_classification.ipynb
+**Code:** : IMDB_Final.ipynb
 
 **Description**: Performed Sentiment Analysis of 50k IMDB Movie Reviews. Developed various classification models to predict if the given movie review is positive or negative.
 
